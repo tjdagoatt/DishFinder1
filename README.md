@@ -3,6 +3,8 @@ AND101 Milestone 2 - DishFinder
 Submitted by:
 
 Terrance Holloway II
+Jacob Fitchett 
+Naomi Berryman
 
 Time spent: 7 hours spent in total
 
