@@ -61,6 +61,12 @@ https://i.makeagif.com/media/11-30-2025/2Zn1RT.gif
 https://i.makeagif.com/media/11-30-2025/1h1U8o.gif
 VIDEO created with (ScreenToGif / Loom / OBS / Android Studio Emulator Recorder)
 
+Live Demo 
+
+
+https://github.com/user-attachments/assets/f12b6a7a-c800-49fd-b2c3-fbb340e9f850
+
+
 Notes
 
 TheMealDB API works extremely well for a beginner-friendly food app
